@@ -1,6 +1,6 @@
 # BE-Research-paper
 
-OBJECT CLASSIFICATION
+IMAGE CLASSIFICATION
 
 Link:https://ieeexplore.ieee.org/document/9068044
 Name:Masked Face Recognition Using Convolutional Neural Network
